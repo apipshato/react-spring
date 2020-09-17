@@ -2097,6 +2097,7 @@
   version "9.0.0-rc.3"
   dependencies:
     "@react-spring/shared" "link:packages/shared"
+    "@react-spring/types" "link:packages/types"
     react-layout-effect "^1.0.1"
 
 "@react-spring/core@link:packages/core":
@@ -2104,6 +2105,7 @@
   dependencies:
     "@react-spring/animated" "link:packages/animated"
     "@react-spring/shared" "link:packages/shared"
+    "@react-spring/types" "link:packages/types"
     react-layout-effect "^1.0.1"
     use-memo-one "^1.1.0"
 
@@ -2113,6 +2115,7 @@
     "@react-spring/animated" "link:packages/animated"
     "@react-spring/core" "link:packages/core"
     "@react-spring/shared" "link:packages/shared"
+    "@react-spring/types" "link:packages/types"
 
 "@react-spring/native@link:targets/native":
   version "9.0.0-rc.3"
@@ -2120,6 +2123,7 @@
     "@react-spring/animated" "link:packages/animated"
     "@react-spring/core" "link:packages/core"
     "@react-spring/shared" "link:packages/shared"
+    "@react-spring/types" "link:packages/types"
 
 "@react-spring/shared@link:packages/shared":
   version "9.0.0-rc.3"
@@ -2134,6 +2138,7 @@
     "@react-spring/animated" "link:packages/animated"
     "@react-spring/core" "link:packages/core"
     "@react-spring/shared" "link:packages/shared"
+    "@react-spring/types" "link:packages/types"
 
 "@react-spring/types@link:packages/types":
   version "9.0.0-rc.3"
@@ -2146,6 +2151,7 @@
     "@react-spring/animated" "link:packages/animated"
     "@react-spring/core" "link:packages/core"
     "@react-spring/shared" "link:packages/shared"
+    "@react-spring/types" "link:packages/types"
 
 "@react-spring/zdog@link:targets/zdog":
   version "9.0.0-rc.3"
@@ -2153,6 +2159,7 @@
     "@react-spring/animated" "link:packages/animated"
     "@react-spring/core" "link:packages/core"
     "@react-spring/shared" "link:packages/shared"
+    "@react-spring/types" "link:packages/types"
 
 "@rollup/plugin-commonjs@^11.1.0":
   version "11.1.0"
@@ -6756,9 +6763,9 @@ lodash.uniq@^4.5.0:
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
 lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.2, lodash@^4.17.5, lodash@^4.2.1, lodash@^4.3.0, lodash@^4.6.1:
-  version "4.17.15"
-  resolved "https://registry.npmjs.org/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.20"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.20.tgz#b44a9b6297bcb698f1c51a3545a2b3b368d59c52"
+  integrity sha512-PlhdFcillOINfeV7Ni6oF1TAEayyZBoZ8bcshTHqOYJYlrqzRK5hagpagky5o4HfCzzd1TRkXPMFq6cKk9rGmA==
 
 lolex@^5.0.0:
   version "5.1.2"
